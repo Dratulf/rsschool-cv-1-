@@ -1,1 +1,1 @@
-https://github.com/Dratulf/rsschool-cv/gh-pages/cv.md
+https://dratulf.github.io/rsschool-cv/cv.md
